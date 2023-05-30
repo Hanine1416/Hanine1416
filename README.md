@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--First Section-->
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="center" alt="coding" width="600" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p style="align: center">
     I'm a dedicted, curious software engineering student who approaches every challenge with an unwavering passion for problem-solving and a genuine desire to explore more about IT and software development.
     <br>
