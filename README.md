@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hanine
 <!--First Section-->
 <p style="align: center">
     I'm a dedicted, curious software engineering student who approaches every challenge with an unwavering passion for problem-solving and a genuine desire to explore more about IT and software development.
