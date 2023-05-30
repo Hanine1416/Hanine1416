@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p style="align: center">
     I'm a dedicted, curious software engineering student who approaches every challenge with an unwavering passion for problem-solving and a genuine desire to explore more about IT and software development.
     <br>
-  - 🔭 I’m currently working on Devops
+  - 🔭 I’m currently working on Devops<br>
   - 🌱 I’m currently learning DevSecOps, BigData
 </p>
 <br>
@@ -128,10 +128,10 @@ Here are some ideas to get you started:
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/hanine-azzabi-57b498215/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_640.png" alt="linkedin" width="40px"/>
+        <img  style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_640.png" alt="linkedin" width="40px" margin-right="5px"/>
     </a>
     <a href="https://www.facebook.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/41/icons-842893_640.png" alt="blogger" width="40px"/>
+        <img style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/41/icons-842893_640.png" alt="blogger" width="40px" margin-right="5px"/>
     </a>
     <a href="mailto:hanine.azzabi@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/31/icons-842848_640.png" alt="gmail" width="40px"/>
