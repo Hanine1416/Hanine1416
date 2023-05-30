@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   - 🔭 I’m currently working on Devops<br>
   - 🌱 I’m currently learning DevSecOps, BigData
 </p>
-<br>
 <h2 style="color: #ffb703">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
