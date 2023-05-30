@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
+<div class="stats" style="display: inline_block">
 
 ![Hanine Azzabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanine1416&hide=stars&count_private=true&show_icons=true&theme=radical&border_radius=20)
 
