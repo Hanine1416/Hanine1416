@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--First Section-->
-<img align="right" alt="coding" width="600" height="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="center" alt="coding" width="600" height="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p style="align: center">
     I'm a dedicted, curious software engineering student who approaches every challenge with an unwavering passion for problem-solving and a genuine desire to explore more about IT and software development.
     <br>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" style="display: inline_block">
+<div class="stats" style="display: center">
 
 ![Hanine Azzabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanine1416&hide=stars&count_private=true&show_icons=true&theme=radical&border_radius=20)
 
