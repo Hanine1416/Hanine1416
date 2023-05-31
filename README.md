@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hanine (っ◔◡◔)っ 
+
 
 <!--
 **Hanine1416/Hanine1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--First Section-->
+<h1 align="center"> Hi there 👋 I'm Hanine (っ◔◡◔)っ </h1>
 <p style="align: center">
-    I'm a dedicted software engineering student who approaches every challenge with an unwavering passion for problem-solving and a genuine desire to explore more about IT and software development.
+    I'm a dedicted software engineering student with genuine desire to discover and learn more about IT and software development.
     <br>
   - 🔭 I’m currently working on Devops<br>
   - 🌱 I’m currently learning DevSecOps, BigData
