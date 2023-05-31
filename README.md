@@ -98,14 +98,13 @@ Here are some ideas to get you started:
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" style="display: center">
 
-![Hanine Azzabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanine1416&hide=stars&count_private=true&show_icons=true&theme=radical&border_radius=20)
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanine1416&show_icons=true&locale=en&theme=radical" alt="hanine1416" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hanine1416&count_private=true&theme=radical&border_radius=20)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanine1416&&theme=radical" alt="hanine1416" /></p>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanine1416&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanine1416&layout=compact&show_icons=true&theme=radical&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
@@ -114,7 +113,7 @@ Here are some ideas to get you started:
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/hanine-azzabi-57b498215/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_640.png" alt="linkedin" width="40px" margin-right="5px"/>
+        <img style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861_640.png" alt="linkedin" width="40px" margin-right="5px"/>
     </a>
     <a href="mailto:hanine.azzabi@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.pixabay.com/photo/2015/07/13/07/31/icons-842848_640.png" alt="gmail" width="40px"/>
