@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" style="display: center">
 
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanine1416&show_icons=true&locale=en&theme=radical" alt="hanine1416" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanine1416&show_icons=true&locale=en" alt="hanine1416" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanine1416&&theme=radical" alt="hanine1416" /></p>
 
